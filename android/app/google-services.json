@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "81434054486",
+    "project_id": "menstrualhealth-eaa94",
+    "storage_bucket": "menstrualhealth-eaa94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81434054486:android:eff698546c711332f110f7",
+        "android_client_info": {
+          "package_name": "com.example.menstrualhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81434054486-phmcphbn4i276s0kuq3ouul4cb1q41gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.menstrualhealth",
+            "certificate_hash": "5130ab5886bb0c4efa4b088fbe27e21f3f9e239e"
+          }
+        },
+        {
+          "client_id": "81434054486-8upp4m8tco392n172gme0se4e41jppec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzp0Izxpu5gzOXg0Mh9fV2JO_xWLcRQdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81434054486-0s50n6neejn0lt3peps7vrkc73cki2iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
